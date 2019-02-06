@@ -3,8 +3,7 @@ import React, { Component } from 'react';
 export default class FillerText extends Component {
   render() {
     return (
-      <p>
-      </p>
+      <p> I am a filler text. I can be used to fill your screen. Amazing! </p>
     )
   }
 }
