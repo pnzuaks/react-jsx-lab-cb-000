@@ -1,3 +1,7 @@
 export class RegistrationForm extends Component {
-  render()
+  render() {
+    return (
+      
+    )
+  }
 }
