@@ -1,4 +1,6 @@
-export class RegistrationForm extends Component {
+import React, { Component} from 'react';
+
+export default class registrationForm extends Component {
   render() {
     return (
       <form> </>
